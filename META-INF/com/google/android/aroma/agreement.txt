@@ -1,0 +1,12 @@
+<@center><b><#selectbg_g>Multi Root Installer 1.0</#></b>
+<@center><b><#selectbg_g>By Manoranjan2050</#></b>
+
+<b><#selectbg_g>I AM NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR PHONE AFTER INSTALLING IT</#></b></@>
+
+<@center><b><#selectbg_g>For More Info Or Source Code Visit @</#></b>
+<@center><b><#selectbg_g>http://manoranjan2050.org</#></b>
+
+<#selectbg_g>Any kind of damages after installing it is the responsibility of this owner handphone</#>
+
+<#selectbg_g>User will not blame & force developer to repair their handphone if it broken</#>
+

@@ -1,0 +1,10 @@
+<b><#selectbg_g>v1</#></b>
+<*>Initial release</*>
+<*>Added Superuser 3.1.3 + Updated SU</*>
+<*>Added SuperSU 0.94 + Updated SU</*>
+<*>Added BusyBox binary v1.20.2</*>
+<*>Added SQlite3</*>
+<*>Added SSh</*>
+
+<b><#selectbg_g>v2</#></b>
+<*>New Great Feature Comming Soon</*>
